@@ -1,0 +1,7 @@
+{
+  "_status": "RASCUNHO incompleto: faltam componentes, mapeamentos e test.checks. Validar com validate_recipe.",
+  "games": [
+    { "slug": "custom-elden-ring-nightreign", "role": "primary" },
+    { "slug": "valorant", "role": "companion" }
+  ]
+}
